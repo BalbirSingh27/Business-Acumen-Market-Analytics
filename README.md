@@ -1,4 +1,4 @@
-# 📊 Group 008 Marketing Strategy & Consumer Segmentation Projects
+# 📊 Marketing Strategy & Consumer Segmentation Projects
 
 This repository contains a series of marketing strategy and consumer behavior projects conducted by **Group 008** at **Arizona State University**. The work spans multiple industries—including beer, automotive, publishing, education, and technology—and leverages advanced analytical techniques to deliver data-backed business insights.
 
