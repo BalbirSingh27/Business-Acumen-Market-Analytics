@@ -115,10 +115,7 @@ This repository contains a series of marketing strategy and consumer behavior pr
 - **Strategic Portfolio Matrix**
 
 ---
-
-## 👥 Team
-
-**Group 008**  
+ 
 W. P. Carey School of Business  
 Arizona State University  
 
